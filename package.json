@@ -1,0 +1,14 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "a repository for my tailwind essentials training",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "b3rking",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.12",
+    "tailwindcss": "^2.1.1"
+  }
+}
